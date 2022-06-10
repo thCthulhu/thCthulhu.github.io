@@ -54,8 +54,12 @@ body {
     border: 0.3vh solid black;
 }
 
-#main table td:nth-child(n+3) {
+#main table td:nth-child(n+2) {
     text-align: right;
+}
+
+#main table tr:nth-child(odd) {
+    background-color: #f0f0f0;
 }
 
 #main table tr:hover {
