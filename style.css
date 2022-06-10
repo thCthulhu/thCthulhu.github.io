@@ -54,7 +54,7 @@ body {
     border: 0.3vh solid black;
 }
 
-#main table td:nth-child(n+2) {
+#main table td:nth-child(n+3) {
     text-align: right;
 }
 
